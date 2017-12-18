@@ -1,11 +1,11 @@
 # Crypto-Plot
-Downloads csv of crypto currencies :
+### Downloads csv of crypto currencies :
   * Bitcoin
   * Bitcoin Cash
   * Litecoin
   * Ethereum
   * Dash
-and then plots them using plotly
+### And then plots them using plotly
 ## Dependencies
  * selenium ``` pip install selenium ```
  * plotly ``` pip install plotly ```
